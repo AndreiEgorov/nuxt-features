@@ -7,7 +7,6 @@
 <script>
     export default {
       name: "_id",
-      layout: "users",
 
       // NUXT-SPECIFIC feature "validate"  to make sure only valid dynamic url segments reach a specific url
       // validate should return true

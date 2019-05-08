@@ -7,7 +7,6 @@
 <script>
   export default {
     name: "users",
-    layout: "users"
   }
 </script>
 
